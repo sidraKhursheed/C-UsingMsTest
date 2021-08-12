@@ -1,0 +1,224 @@
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebUI_New.dll.config
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebUI_New.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebUI_New.pdb
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Appium.Net.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Aquality.Appium.Mobile.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Aquality.Selenium.Core.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Castle.Core.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\ExtentReports.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\HtmlAgilityPack.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.Edge.SeleniumTools.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Bson.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Driver.Core.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Driver.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Newtonsoft.Json.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\NLog.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\RazorEngine.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\System.Web.Razor.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebDriver.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebDriver.Support.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Aquality.Appium.Mobile.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Aquality.Selenium.Core.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Castle.Core.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\HtmlAgilityPack.pdb
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\HtmlAgilityPack.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Bson.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Driver.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Driver.Core.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Newtonsoft.Json.pdb
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Newtonsoft.Json.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\NLog.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\RazorEngine.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\System.Web.Razor.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebDriver.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebDriver.Support.xml
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\obj\Debug\WebUI_New.csprojAssemblyReference.cache
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\obj\Debug\WebUI_New.csproj.CoreCompileInputs.cache
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\obj\Debug\WebUI_New.csproj.CopyComplete
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\obj\Debug\WebUI_New.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\obj\Debug\WebUI_New.pdb
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\TFS\greenstone\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\NUnit3.TestAdapter.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\NUnit3.TestAdapter.pdb
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\nunit.engine.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\nunit.engine.api.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\nunit.engine.core.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\testcentric.engine.metadata.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebUI_New.dll.config
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebUI_New.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebUI_New.pdb
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Appium.Net.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Aquality.Appium.Mobile.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Aquality.Selenium.Core.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Castle.Core.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\ExtentReports.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\HtmlAgilityPack.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.Edge.SeleniumTools.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Bson.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Driver.Core.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Driver.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Newtonsoft.Json.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\NLog.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\RazorEngine.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\SeleniumExtras.PageObjects.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\System.Web.Razor.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebDriver.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebDriver.Support.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Aquality.Appium.Mobile.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Aquality.Selenium.Core.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Castle.Core.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\HtmlAgilityPack.pdb
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\HtmlAgilityPack.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Bson.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Driver.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Driver.Core.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Newtonsoft.Json.pdb
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Newtonsoft.Json.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\NLog.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\RazorEngine.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\System.Web.Razor.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebDriver.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebDriver.Support.xml
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\obj\Debug\WebUI_New.csproj.AssemblyReference.cache
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\obj\Debug\WebUI_New.csproj.CoreCompileInputs.cache
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\obj\Debug\WebUI_New.csproj.CopyComplete
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\obj\Debug\WebUI_New.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\obj\Debug\WebUI_New.pdb
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Contour\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebUI_New.dll.config
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebUI_New.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebUI_New.pdb
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Appium.Net.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Aquality.Appium.Mobile.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Aquality.Selenium.Core.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Castle.Core.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\ExtentReports.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\HtmlAgilityPack.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.Edge.SeleniumTools.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Bson.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Driver.Core.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Driver.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Newtonsoft.Json.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\NLog.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\RazorEngine.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\SeleniumExtras.PageObjects.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\System.Web.Razor.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebDriver.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebDriver.Support.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Aquality.Appium.Mobile.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Aquality.Selenium.Core.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Castle.Core.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\HtmlAgilityPack.pdb
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\HtmlAgilityPack.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Bson.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Driver.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\MongoDB.Driver.Core.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Newtonsoft.Json.pdb
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Newtonsoft.Json.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\NLog.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\RazorEngine.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\System.Web.Razor.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebDriver.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\WebDriver.Support.xml
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\obj\Debug\WebUI_New.csproj.CoreCompileInputs.cache
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\obj\Debug\WebUI_New.csproj.CopyComplete
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\obj\Debug\WebUI_New.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\obj\Debug\WebUI_New.pdb
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\NUnit3.TestAdapter.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\NUnit3.TestAdapter.pdb
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\nunit.engine.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\nunit.engine.api.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\nunit.engine.core.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\bin\Debug\testcentric.engine.metadata.dll
+E:\FinalProjects\C#\Web\MyGrower Automation\Mygrower.UITest\WebUI_New\obj\Debug\WebUI_New.csproj.AssemblyReference.cache
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\NUnit3.TestAdapter.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\NUnit3.TestAdapter.pdb
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\nunit.engine.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\nunit.engine.api.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\nunit.engine.core.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\testcentric.engine.metadata.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\WebUI_New.dll.config
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\WebUI_New.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\WebUI_New.pdb
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Appium.Net.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Aquality.Appium.Mobile.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Aquality.Selenium.Core.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Castle.Core.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\ExtentReports.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\HtmlAgilityPack.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Microsoft.Edge.SeleniumTools.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\MongoDB.Bson.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\MongoDB.Driver.Core.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\MongoDB.Driver.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Newtonsoft.Json.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\NLog.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\RazorEngine.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\SeleniumExtras.PageObjects.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\System.Web.Razor.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\WebDriver.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\WebDriver.Support.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Aquality.Appium.Mobile.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Aquality.Selenium.Core.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Castle.Core.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\HtmlAgilityPack.pdb
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\HtmlAgilityPack.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\MongoDB.Bson.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\MongoDB.Driver.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\MongoDB.Driver.Core.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Newtonsoft.Json.pdb
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\Newtonsoft.Json.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\NLog.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\RazorEngine.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\System.Web.Razor.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\WebDriver.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\bin\Debug\WebDriver.Support.xml
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\obj\Debug\WebUI_New.csproj.CoreCompileInputs.cache
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\obj\Debug\WebUI_New.csproj.CopyComplete
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\obj\Debug\WebUI_New.dll
+E:\FinalProjects\C#\Web\WebAutomation\Web.UITest\WebUI_New\obj\Debug\WebUI_New.pdb
